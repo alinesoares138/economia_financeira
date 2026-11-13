@@ -4,7 +4,7 @@ Oi! Criei esse material durante a matéria de Economia Financeira, na faculdade 
 
 Ele segue os capítulos da apostila do professor Diego Ferreira. Cada capítulo tem duas abas: um resumo, para revisar rapidinho, e uma versão detalhada, que explica tudo desde o começo, com as contas passo a passo e exercícios resolvidos. Nos exercícios, vale tentar resolver antes de abrir a resolução!
 
-👉 **Acesse aqui:** https://alinesoares138.github.io/economia/
+👉 **Acesse aqui:** https://alinesoares138.github.io/economia_financeira/
 
 Uma dica que ajuda muito: nas contas, use sempre decimais (15% = 0,15).
 
